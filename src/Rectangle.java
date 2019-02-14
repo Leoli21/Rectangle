@@ -11,11 +11,11 @@ public class Rectangle {
 	}
 	public double setHeight()
 	{
-		return 
+		return length;	 
 	}
 	public double getWidth()
 	{
-		return
+		
 	}
 	public double getHeight()
 	{
